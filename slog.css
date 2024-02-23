@@ -498,7 +498,7 @@ button:hover
     text-align: center;
     line-height: 50px;
     cursor: pointer;
-    z-index: 1000;
+    z-index: 2000;
 }
 
 .scroll-arrow.up 
