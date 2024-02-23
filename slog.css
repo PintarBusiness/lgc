@@ -498,7 +498,7 @@ button:hover
     text-align: center;
     line-height: 50px;
     cursor: pointer;
-    z-index: 2000;
+    z-index: 1000;
 }
 
 .scroll-arrow.up 
@@ -932,6 +932,7 @@ nav a:hover
         display: flex; /* Uporaba flexbox modela */
         justify-content: center;
         border-radius: 10px;
+        z-index: 997;
     }
 
     ul.druzbena-omrezja {
@@ -1055,6 +1056,7 @@ nav a:hover
     .menu-toggle {
         display: inline-block; /* Prikažemo toggle gumb, ko je zaslon velik kot telefonski */
         cursor: pointer;
+        z-index: 998
     }
 
     .rac
