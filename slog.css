@@ -1097,12 +1097,6 @@ nav a:hover
         padding-bottom: 1px; /* Prostor za footer */
     }
 
-    .findex
-    {
-        margin-top: 40px;
-    }
-
-
 }
 
 @media only screen and (max-width: 768px) {
