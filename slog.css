@@ -1177,7 +1177,7 @@ nav a:hover
 .htext p {
     font-size: 24px;
     font-weight: bold;
-    color: forestgreen;
+    color: #228B22;
     text-align: center; /* Da bo besedilo na sredini */   
 }
 
