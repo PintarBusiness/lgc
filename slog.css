@@ -1111,6 +1111,10 @@ nav a:hover
         width: auto;
         max-height: none;
     }
+    .findex
+    {
+        margin-top: 140px;
+    }
 }
 
 @media only screen and (min-width: 1600px) {
