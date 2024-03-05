@@ -1191,7 +1191,7 @@ nav a:hover
 
 .htext
 {
-    margin-bottom: 20px;
+    margin-bottom: 30px;
 }
 
 @media only screen and (min-width: 800px) {
@@ -1199,6 +1199,11 @@ nav a:hover
     position: absolute;
     bottom: 0;
 }
+
+.htext p {
+    font-size: 30px;  
+}
+
 }
 
 .image-container .prvaslika img
